@@ -7,6 +7,8 @@ You can get started with the following:
 
 The latest version of Hiperad SDK supports Android OS versions 4 (API level 14) and later.
 
+![Demo](demo.png)
+
 ### Initialize the SDK
 1. Download [hiperad-sdk-1.5.aar](https://github.com/mohammad1ta/hiperad-sdk/blob/master/hiperad-sdk-1.5.aar) and copy to the **app/libs** directory within your project.
 2. Add the relevant Gradle reference ( **app/build.gradle** )
